@@ -30,13 +30,12 @@ Automate real-time monitoring of temperature and humidity in agricultural storag
 ## 🛠️ Hardware Components
 | Component          | Quantity | Purpose                     |
 |--------------------|----------|-----------------------------|
-| Arduino Uno        | 1        | Processing unit             |
+| Arduino            | 1        | Processing unit             |
 | DHT22 Sensor       | 1        | Temperature & humidity      |
 | 16x2 LCD (I2C)     | 1        | Data display                |
-| LEDs               | 1        | Visual threshold indicators |
 | 9V Battery         | 1        | Power supply                |
 
-## 🔌 Circuit Diagram![WhatsApp Image 2025-03-25 at 23 54 56](https://github.com/user-attachments/assets/272f8ac3-cbd6-4926-a8ca-c579899cb97d)
+## 🔌 Circuit Diagram
 
 ![image](https://github.com/user-attachments/assets/39ef0c00-642e-4ed8-a26a-92c19cdcf4f8)
 
